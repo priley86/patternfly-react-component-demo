@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"custom.css","sourceRoot":""}
+{"version":3,"sources":["webpack:///webpack:///src/less/custom.less"],"names":[],"mappings":"AAAA,4CAA4C,wBAAwB","file":"custom.css","sourcesContent":[".collapse.navbar-collapse.navbar-collapse-1{background-color:#f5f5f5}\n\n\n/** WEBPACK FOOTER **\n ** webpack:///src/less/custom.less\n **/"],"sourceRoot":""}

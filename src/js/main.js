@@ -42,6 +42,3 @@ require('../../node_modules/patternfly/node_modules/google-code-prettify/bin/pre
 
 //MatchHeight - Used to make sure dashboard cards are the same height
 require('../../node_modules/patternfly/node_modules/jquery-match-height/jquery.matchHeight-min');
-
-//Angular Application? You May Want to Consider Pulling Angular-PatternFly And Angular-UI Bootstrap instead of bootstrap.js
-//See https://github.com/patternfly/angular-patternfly for more information

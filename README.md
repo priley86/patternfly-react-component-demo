@@ -1,13 +1,17 @@
-# patternfly-demo-app
+# patternfly-react-component-demo
 
-The PatternFly demo app serves as a boiler for building your production app with [PatternFly](http://patternfly.org/), [Node.JS](https://nodejs.org/en/), and [Webpack](https://webpack.github.io/).
+The PatternFly demo app serves as a boiler for building your production app with [PatternFly](http://patternfly.org/), [React.JS](https://facebook.github.io/react/), and [WebComponents](http://webcomponents.org/).
 
-![Image of PatternFly](https://avatars2.githubusercontent.com/u/6391110?v=3&s=400)
-![Image of NodeJS](http://www.devsensation.es/sites/default/files/styles/large/public/field/image/nodejs-logo.png?itok=URP6hUpT)
-![Image of Webpack](https://avatars0.githubusercontent.com/webpack?&s=256)
+![Image of PatternFly](https://raw.githubusercontent.com/priley86/patternfly-react-component-demo/master/icons/patternfly-orb.png)
+![Image of React](https://raw.githubusercontent.com/priley86/patternfly-react-component-demo/master/icons/react.png)
+![Image of WebComponents](https://raw.githubusercontent.com/priley86/patternfly-react-component-demo/master/icons/webcomponents.png)
+
+This app also attempts to showcase our abilities with custom element interop and new [webcomponent](http://webcomponents.org/) standards.
+
+You can find an our `pf-tabs` component [here](https://github.com/priley86/pf-tabs-demo).
 
 ## Demo
-The main demo can be found [here](https://rawgit.com/patternfly/patternfly-demo-app/master/dist/index.html). There is a sample [login](https://rawgit.com/patternfly/patternfly-demo-app/master/dist/login.html) page as well.
+The main demo can be found [here](https://rawgit.com/priley86/patternfly-react-component-demo/master/dist/index.html). 
 
 ### Installation
 Install webpack globally:
