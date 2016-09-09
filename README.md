@@ -1,6 +1,6 @@
 # patternfly-react-component-demo
 
-The PatternFly demo app serves as a boiler for building your production app with [PatternFly](http://patternfly.org/), [React.JS](https://facebook.github.io/react/), and [WebComponents](http://webcomponents.org/).
+The PatternFly demo app serves as a demo for building your app with [PatternFly](http://patternfly.org/), [React.JS](https://facebook.github.io/react/), and [WebComponents](http://webcomponents.org/).
 
 ![Image of PatternFly](https://raw.githubusercontent.com/priley86/patternfly-react-component-demo/master/icons/patternfly-orb.png)
 ![Image of React](https://raw.githubusercontent.com/priley86/patternfly-react-component-demo/master/icons/react.png)
@@ -8,7 +8,7 @@ The PatternFly demo app serves as a boiler for building your production app with
 
 This app also attempts to showcase our abilities with custom element interop and new [webcomponent](http://webcomponents.org/) standards.
 
-You can find an our `pf-tabs` component [here](https://github.com/priley86/pf-tabs-demo).
+You can find our `pf-tabs` component [here](https://github.com/priley86/pf-tabs-demo).
 
 ## Demo
 The main demo can be found [here](https://rawgit.com/priley86/patternfly-react-component-demo/master/dist/index.html). 
